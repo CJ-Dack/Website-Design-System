@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+    background-color: black;
+    margin: 0 10%;
+}
+
+div {
+    display:block;
+}
+
+.container {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.colour-panel {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.colour-label, .colour-hex {
+    font-weight: bold;
+}
+
+.dack-stone {
+    color: black;
+    background-color: #DAC9BE;
+}
+
+.pistachio-green {
+    color:black;
+    background-color:#BEDAC9 ;
+}
+
+.pastel-lilac {
+    color: black;
+    background-color:#C9BEDA ;
+}
+
+.font-panel {
+    width: 50%;
+    text-align: center;
+    margin: 20px auto;
+    border-bottom: 2px solid white;
+}
+
+.font-label {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.roboto-condensed {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.libre-baskerville {
+    font-family: "Libre Baskerville", serif;
+}
+
+.source-code-pro {
+    font-family: "Source Code Pro", monospace;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-panel {
+    text-align: center;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    width: 50%;
+    border-bottom: 2px solid white;
+
+}
+
+.text-label {
+    text-decoration: underline;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
